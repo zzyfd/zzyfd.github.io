@@ -6,13 +6,21 @@
                 "name": "PyTorch",
                 "rate": 5
             },
-            {
-                "name": "Caffe",
+                        {
+                "name": "Tensorflow",
                 "rate": 5
             },
             {
+                "name": "Flax",
+                "rate": 3
+            },
+            {
+                "name": "Caffe",
+                "rate": 3
+            },
+            {
                 "name": "NumPy",
-                "rate": 3.5
+                "rate": 4
             },
             {
                 "name": "CUDA",
@@ -25,33 +33,13 @@
         "items": [
             {
                 "name": "C/C++",
-                "rate": 5
+                "rate": 4
             },
             {
                 "name": "Python",
                 "rate": 5
-            },
-            {
-                "name": "JAVA",
-                "rate": 3
-            },
-            {
-                "name": "JavaScript",
-                "rate": 2.5
-            }
-        ]
-    },
-    {
-        "name": "Overwatch",
-        "items": [
-            {
-                "name": "Widowmaker",
-                "rate": 5
-            },
-            {
-                "name": "Hanzo",
-                "rate": 1
             }
         ]
     }
+
 ]

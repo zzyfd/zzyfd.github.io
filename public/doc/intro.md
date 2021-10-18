@@ -1,5 +1,5 @@
-I am a researcher of Emerging Innovations Group (EIG) Research of SenseTime.
+I am a third-year PhD candidate in The Chinese University of Hong Kong, under supervision of Prof. Xiaogang Wang and Prof Ping Luo.
 
-My research focuses on computer vision and deep learning.
+My research focuses on efficient deep learning. 
 
 Email: zhaoyangzhang@link.cuhk.edu.hk
