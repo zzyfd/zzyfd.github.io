@@ -55,7 +55,7 @@
                   :key="pid"
                   class="md-layout post"
                 >
-                  <div class="md-layout-item md-size-35 md-small-size-100">
+                  <div class="md-layout-item md-size-70 md-small-size-100">
                     <img :src="p.image" class="img-raised rounded pic" />
                   </div>
                   <div class="md-layout-item md-size-65 md-small-size-100">
