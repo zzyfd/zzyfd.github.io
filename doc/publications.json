@@ -1,5 +1,22 @@
 [
     {
+        "image": "doc/publications/zy9/image.png",
+        "intro": "doc/publications/zy9/intro.md"
+    },
+    {
+        "image": "doc/publications/zy10/image.png",
+        "intro": "doc/publications/zy10/intro.md"
+    },
+    {
+        "image": "doc/publications/zy11/image.png",
+        "intro": "doc/publications/zy11/intro.md"
+    },
+    {
+        "image": "doc/publications/zy12/image.png",
+        "intro": "doc/publications/zy12/intro.md"
+    },
+
+    {
         "image": "doc/publications/zy1/image.png",
         "intro": "doc/publications/zy1/intro.md"
     },
