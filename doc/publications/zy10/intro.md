@@ -1,1 +1,6 @@
-<img width="728" alt="1688285489402" src="https://github.com/zzyfd/zzyfd.github.io/assets/13939478/34dbd0e8-3d0c-4524-a7c0-90d3690ec32c">
+#### Real-time Controllable Denoising for Image and Video
+###### <u>Zhaoyang Zhang</u>, Yitong Jiang, Wenqi Shao, Xiaogang Wang, Ping Luo, Kaimo Lin, Jinwei Gu
+CVPR 2023
+###### [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Real-Time_Controllable_Denoising_for_Image_and_Video_CVPR_2023_paper.pdf)
+
+
