@@ -12,12 +12,12 @@ import GButton from './components/util/GButton.vue'
     </a>
     <Transition name="slide-right" mode="out-in">
       <div class="item" v-if="$route.name == 'About Me'">
-        <a href="https://scholar.google.com/citations?user=5gStTm4AAAAJ&hl=en" class="right" @click="isNavOpen = false">
+        <a href="https://scholar.google.com/citations?user=Pf6o7uAAAAAJ" class="right" @click="isNavOpen = false">
           <i class="fa fa-graduation-cap"></i> <b>Google Scholar</b>
         </a>
-        <a href="https://github.com/jiangyitong" class="right" @click="isNavOpen = false">
+        <!-- <a href="https://github.com/jiangyitong" class="right" @click="isNavOpen = false">
           <i class="fa fa-github"></i> <b>Github</b>
-        </a>
+        </a> -->
       </div>
       <div class="item" v-else-if="$route.name == 'Uni-ISP'">
         <a class="right" href="https://arxiv.org/abs/2406.01003" @click="isNavOpen = false">
