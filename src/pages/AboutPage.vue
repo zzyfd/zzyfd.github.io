@@ -56,12 +56,12 @@ My research interests include efficient reinforcement learning, image/video gene
         <p class="text-xl font-bold p-4">News</p>
         <div class="pl-4 pr-4 pb-4">
           <p> <b>2026.1</b> Our work <a class="link" href="https://sparkstj.github.io/talk2move//">Talk2Move</a>  has been released. </p>
-          <p> <b>2026.1</b> Two papers are accepted in ICLR 2026, please check <a class="link" href="https://lg-li.github.io/project/tooncomposer/">ToonComposer</a> and <a class="link" href="https://liyaowei-stu.github.io/project/IC_Custom/">IC-Custom</a>. </p>
-          <p> <b>2025.8</b> One paper <a class="link" href="https://liyaowei-stu.github.io/project/BlobCtrl/">BlobCtrl</a>  is accepted in SIGGRAPH Asia 2025.</p>
-          <p> <b>2025.3</b> Three papers are accepted in SIGGRAPH 2025, please check <a class="link" href="https://yxbian23.github.io/project/video-painter">VideoPainter</a> ,<a class="link" href="https://shiyi-zh0408.github.io/projectpages/FlexiAct">FlexiAct</a> and <a class="link" href="https://zhuang2002.github.io/Cobra">Cobra</a>. </p>
-          <p> <b>2025.2</b> Two papers are accepted in CVPR 2025, please check <a class="link" href="https://lg-li.github.io/project/nvcomposer/">NVComposer</a> and <a class="link" href="https://onevfall.github.io/project_page/ditctrl/">DiTCtrl</a>. </p>
-          <p> <b>2024.12</b> Two papers are accepted in AAAI 2025, please check please check <a class="link" href="https://liyaowei-stu.github.io/project/ImageConductor/">ImageConductor</a> and  <a class="link" href="https://github.com/cure-lab/MotionCraft/">MotionCraft</a>.  </p>
-          <p> <b>2024.9</b> Two papers are accepted in NeurIPS 2024, please check <a class="link" href="https://github.com/mira-space/MiraData ">MiraData</a> and <a class="link" href="https://github.com/MC-E/ReVideo ">ReVideo</a>. </p>
+          <p> <b>2026.1</b> Two papers are accepted at <b>ICLR 2026</b>, please check <a class="link" href="https://lg-li.github.io/project/tooncomposer/">ToonComposer</a> and <a class="link" href="https://liyaowei-stu.github.io/project/IC_Custom/">IC-Custom</a>. </p>
+          <p> <b>2025.8</b> One paper <a class="link" href="https://liyaowei-stu.github.io/project/BlobCtrl/">BlobCtrl</a>  is accepted at <b>SIGGRAPH Asia 2025</b>.</p>
+          <p> <b>2025.3</b> Three papers are accepted at <b>SIGGRAPH 2025</b>, please check <a class="link" href="https://yxbian23.github.io/project/video-painter">VideoPainter</a> ,<a class="link" href="https://shiyi-zh0408.github.io/projectpages/FlexiAct">FlexiAct</a> and <a class="link" href="https://zhuang2002.github.io/Cobra">Cobra</a>. </p>
+          <p> <b>2025.2</b> Two papers are accepted at <b>CVPR 2025</b>, please check <a class="link" href="https://lg-li.github.io/project/nvcomposer/">NVComposer</a> and <a class="link" href="https://onevfall.github.io/project_page/ditctrl/">DiTCtrl</a>. </p>
+          <p> <b>2024.12</b> Two papers are accepted at <b>AAAI 2025</b>, please check please check <a class="link" href="https://liyaowei-stu.github.io/project/ImageConductor/">ImageConductor</a> and  <a class="link" href="https://github.com/cure-lab/MotionCraft/">MotionCraft</a>.  </p>
+          <p> <b>2024.9</b> Two papers are accepted at <b>NeurIPS 2024</b>, please check <a class="link" href="https://github.com/mira-space/MiraData ">MiraData</a> and <a class="link" href="https://github.com/MC-E/ReVideo ">ReVideo</a>. </p>
 
         </div>
         <p class="text-xl font-bold p-4">Selected Publication</p>
