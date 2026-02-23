@@ -55,6 +55,7 @@ My research interests include efficient reinforcement learning, image/video gene
         </p>
         <p class="text-xl font-bold p-4">News</p>
         <div class="pl-4 pr-4 pb-4">
+          <p> <b>2026.2</b> Two papers are accepted at <b>CVPR 2026</b>, please check <a class="link" href="https://sparkstj.github.io/talk2move//">Talk2Move</a> and CubeComposer (Coming soon...). </p>
           <p> <b>2026.1</b> Our work <a class="link" href="https://sparkstj.github.io/talk2move//">Talk2Move</a>  has been released. </p>
           <p> <b>2026.1</b> Two papers are accepted at <b>ICLR 2026</b>, please check <a class="link" href="https://lg-li.github.io/project/tooncomposer/">ToonComposer</a> and <a class="link" href="https://liyaowei-stu.github.io/project/IC_Custom/">IC-Custom</a>. </p>
           <p> <b>2025.8</b> One paper <a class="link" href="https://liyaowei-stu.github.io/project/BlobCtrl/">BlobCtrl</a>  is accepted at <b>SIGGRAPH Asia 2025</b>.</p>
@@ -188,7 +189,7 @@ export default {
         {
           title: 'Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes',
           authors: 'Jing Tan, <strong>Zhaoyang Zhang</strong>, Yantao Shen, Jiarui Cai, Shuo Yang, Jiajun Wu, Wei Xia, Zhuowen Tu, Stefano Soatto',
-          venue: 'Under Review',
+          venue: 'CVPR 2026',
           date: '2026/01',
           background: './pub-images/Talk2Move.png',
           note: 'Corresponding Author',
