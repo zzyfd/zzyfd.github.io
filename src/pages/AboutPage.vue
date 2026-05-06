@@ -55,7 +55,8 @@ My research interests include efficient reinforcement learning, image/video gene
         </p>
         <p class="text-xl font-bold p-4">News</p>
         <div class="pl-4 pr-4 pb-4">
-          <p> <b>2026.2</b> Two papers are accepted at <b>CVPR 2026</b>, please check <a class="link" href="https://sparkstj.github.io/talk2move//">Talk2Move</a> and CubeComposer (Coming soon...). </p>
+          <p> <b>2026.4</b> Our recent RL-aware on-policy distillation work <a class="link" href="https://arxiv.org/abs/2602.22495">RLAD</a> has been accepted at <b>ICML 2026</b>. </p>
+          <p> <b>2026.4</b> Two papers of RL for image editting and panoramic video generation  are accepted at <b>CVPR 2026</b>, please check <a class="link" href="https://sparkstj.github.io/talk2move//">Talk2Move</a> (Highlight) and CubeComposer (Coming soon...). </p>
           <p> <b>2026.1</b> Our work <a class="link" href="https://sparkstj.github.io/talk2move//">Talk2Move</a>  has been released. </p>
           <p> <b>2026.1</b> Two papers are accepted at <b>ICLR 2026</b>, please check <a class="link" href="https://lg-li.github.io/project/tooncomposer/">ToonComposer</a> and <a class="link" href="https://liyaowei-stu.github.io/project/IC_Custom/">IC-Custom</a>. </p>
           <p> <b>2025.8</b> One paper <a class="link" href="https://liyaowei-stu.github.io/project/BlobCtrl/">BlobCtrl</a>  is accepted at <b>SIGGRAPH Asia 2025</b>.</p>
@@ -161,8 +162,8 @@ export default {
                 {
           title: 'Reinforcement-aware Ditillation for LLM Reasoning',
           authors: '<strong>Zhaoyang Zhang</strong>, Shuli Jiang, Yantao Shen, Yuting Zhang, Dhananjay Ram, Shuo Yang, Wei Xia, Zhuowen Tu, Stefano Soatto',
-          venue: 'Under Review',
-          date: '2026/01',
+          venue: 'ICML 2026',
+          date: '2026/04',
           background: './pub-images/RLAD.png',
           // note: 'Corresponding Author',
           operations: [
@@ -189,8 +190,8 @@ export default {
         {
           title: 'Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes',
           authors: 'Jing Tan, <strong>Zhaoyang Zhang</strong>, Yantao Shen, Jiarui Cai, Shuo Yang, Jiajun Wu, Wei Xia, Zhuowen Tu, Stefano Soatto',
-          venue: 'CVPR 2026',
-          date: '2026/01',
+          venue: 'CVPR 2026 (Highlight)',
+          date: '2026/02',
           background: './pub-images/Talk2Move.png',
           note: 'Corresponding Author',
           operations: [
